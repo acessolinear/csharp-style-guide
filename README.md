@@ -385,15 +385,3 @@ It is very important to have the correct smile signifying the immense amount of 
   
 > **NOTE**: Do not use smileys in your scripts.
 
-## Credits
-
-This style guide is a collaborative effort from the most stylish
-raywenderlich.com team members:
-
-- [Darryl Bayliss](https://github.com/DarrylBayliss)
-- [Sam Davies](https://github.com/sammyd)
-- [Mic Pringle](https://github.com/micpringle)
-- [Brian Moakley](https://github.com/VegetarianZombie)
-- [Ray Wenderlich](https://github.com/rwenderlich)
-- [Eric Van de Kerckhove](https://github.com/BlackDragonBE)
-
